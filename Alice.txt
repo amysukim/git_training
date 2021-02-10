@@ -2,3 +2,4 @@ Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 I love CSE!
 I love chocolate cake!
 I made a change for rebasing portion.
+I just added directly on github
